@@ -16,4 +16,4 @@ This repository contains my solutions to programming challenges that I solved.
 
 ### php
 
-* php is harder to show but I've made a website using it: (we are not lost)[http://www.wearenotlost.org]
+* php is harder to show but I've made a website using it: [we are not lost](http://www.wearenotlost.org)
